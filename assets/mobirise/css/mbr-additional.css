@@ -1626,7 +1626,7 @@ a {
   text-align: center;
 }
 .cid-sB2YhI3gwj .desc2 {
-  color: #1b745e;
+  color: #ff6666;
   padding-top: 5px;
 }
 .cid-sB2YhI3gwj .card {
@@ -1678,4 +1678,8 @@ a {
   .cid-sB2YhI3gwj .features-image:nth-child(3) {
     padding-top: 32px;
   }
+}
+.cid-sB2YhI3gwj .desc1,
+.cid-sB2YhI3gwj .iconfont-wrapper {
+  color: #e43f3f;
 }
